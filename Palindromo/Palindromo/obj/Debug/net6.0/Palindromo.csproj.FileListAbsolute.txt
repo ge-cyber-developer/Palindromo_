@@ -1,0 +1,15 @@
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\bin\Debug\net6.0\Palindromo.exe
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\bin\Debug\net6.0\Palindromo.deps.json
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\bin\Debug\net6.0\Palindromo.runtimeconfig.json
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\bin\Debug\net6.0\Palindromo.dll
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\bin\Debug\net6.0\ref\Palindromo.dll
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\bin\Debug\net6.0\Palindromo.pdb
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.csproj.AssemblyReference.cache
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.AssemblyInfo.cs
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.dll
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\ref\Palindromo.dll
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.pdb
+C:\Users\Giovana Duarte\Videos\Código\Projeto Palindromo\Palindromo\Palindromo\obj\Debug\net6.0\Palindromo.genruntimeconfig.cache
